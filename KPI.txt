@@ -1,0 +1,14 @@
+Los KPI’s deben ser "SMART"
+S: Especificios
+M: Medible
+A: Alcanzables
+R: Relevantes
+T: escalables en el Tiempo
+
+
+En inglés las siglas si corresponden con SMART, estas serían las palabras:
+Specific
+Measurable
+Achievable
+Relevant
+Time-bound
